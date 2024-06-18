@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This readme is currently in the works... (as is everything else I have)
+
 <!--
 **ItsMeNoobieboy/ItsMeNoobieboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
